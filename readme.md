@@ -1,4 +1,6 @@
 # akfak
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FBattleroid%2Fakfak.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FBattleroid%2Fakfak?ref=badge_shield)
+
 
 Iteration of some garbage I wrote forever ago. Has been superseded by the newer version that uses dpkp/kafka-python for SASL support.
 
@@ -28,3 +30,7 @@ The `/lag` endpoint can also take a path down to individual keys within the fina
 
 
 [config]: config.yaml
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FBattleroid%2Fakfak.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FBattleroid%2Fakfak?ref=badge_large)
